@@ -1,0 +1,63 @@
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0001_0001_警笛聲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0001_警笛聲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0002_0003_重機引擎聲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0003_0004_恰似你的?柔 .mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0003_重機引擎聲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0004_0005_卡車喇叭聲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0004_恰似你的?柔 .mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0005_0006_土耳其進行曲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0005_卡車喇叭聲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0006_0007_三寸天堂.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0006_土耳其進行曲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0007_0008_下一?天亮.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0007_三寸天堂.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0008_0009_天空裏的一片雲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0008_下一?天亮.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0009_世紀情歌-CD5-01-王菲-天空.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0009_天空裏的一片雲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0010_世紀情歌2-許茹芸-如果雲知道-1.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0011_偶然 －李碧?.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0012_光良-童話.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0013_其實你不懂我的心(童安格).mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0014_再別康橋.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0015_再?康? 朗?.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0016_台語歌曲-江蕙-落雨聲.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0017_台語老歌 - 鳳飛飛-心肝寶貝.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0018_周杰倫 - 稻香.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0019_周杰倫 - 菊花台.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0020_周杰倫&溫嵐-屋頂.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0021_周杰倫-依然范特西-聽媽媽的話.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0022_四十一歲的席琳狄翁 - YouTube (Audio).mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0023_國語老歌 - 民歌 - 王芷蕾 -海角天涯.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0024_天籟美聲-席琳狄翁-To Love You More(辛曉琪-戀人啊!-原曲).MP3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0025_席琳狄翁-Because You Loved Me -.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0026_席琳狄翁-My heart will go on(愛無止盡鐵達尼號電影主題曲).mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0027_張惠妹 - 哭砂.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0028_張惠妹-聽海.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0029_恰似你的?柔.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0030_我可能不會愛你.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0031_我心永恆 MV - YouTube (Audio).mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0032_我的未?不是? .mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0033_林志炫- 哭砂.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0034_梁靜茹-寧夏.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0035_江蕙-家後.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0036_滾石金韻民歌-03-(齊豫)橄欖樹.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0037_王芷蕾-台北的天空.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0038_王芷蕾-秋水長天.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0039_白羽毛之戀-席琳狄翁-西洋老歌-How Do I Live-(電影空中監獄).MP3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0040_童安格-耶利亞女郎.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0041_美聲男伶 Il Divo-Andrea Bocelli 安德烈波伽利-Besame Mucho 無盡的吻 (西班牙文) 1.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0042_費玉清 - 橄欖樹.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0043_費玉清-一剪梅.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0044_費玉清-夢駝鈴.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0045_費玉清-幾多愁 (江山美人情)超好聽喔.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0046_費玉清-蘭花草.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0047_趙詠華 - 求婚.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0048_趙詠華-最浪漫的事.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0049_阿杜～江蕙～夢中的情話.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0050_陳淑樺 - 煙雨斜陽-超好聽.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0051_陳淑樺-夢醒時分 .mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0052_陳淑樺-紅樓夢.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0053_黃鶯鶯 --- 哭砂.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0054_齊豫-再別康橋.mp3
+H:\Dropbox\Arduino_Example\2014_9_AVR_Teacher\ArduinoMega2560\4WDCar\Mini MP3 Player mini播放器\mp3\0055_齊豫_橄欖樹.mp3
